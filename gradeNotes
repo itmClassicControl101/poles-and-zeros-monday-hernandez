@@ -1,0 +1,39 @@
+Check list for laboratory reports - session 2.
+
+Formato y forma:
+- [ ] Ortografía: Muchas 
+- [ ] Redacción: Estilo impropio de redacción, los autores deben de redactar en tercer persona
+- [ ] Plagio: Sin referencias se considera plagio de: 
+https://www.researchgate.net/profile/Francisco_Gonzalez-Longatt/publication/294721274_Capitulo_3_Parte_1_Respuesta_Transitoria_de_Sistemas_Lineales/links/56d7ec9508aee73df6c31667/Capitulo-3-Parte-1-Respuesta-Transitoria-de-Sistemas-Lineales.pdf
+- [ ] Imágenes, Tablas, Referencias y Ecuaciones: Imposible ver los resultados  y la organización de la información es poco prudente.
+
+Contenido:
+- [x] Introducción
+- [x] Metodología
+    - [x] Fuerza bruta RL
+    - [x] Función de transferencia RL por inspección
+- [ ] Desarrollo
+    - [ ] Circuito RC/RL respuesta transitoria (Tau): La verdad no entiendo el reporte, no se que se presenta y que no
+    - [ ] Circuito  RC/RL respuesta en frecuencia (Bode): Parece ser que sólo se presenta uno y no se cuál es porque no se pone pie 
+    de figura
+    
+- [ ] Simulación
+    - [ ] Matlab/Scilab step response
+    - [x] LTI Spice simulación
+- [ ] Resultados 
+    - [ ] Comparación de resultados teórico-prácticos (transitorios)
+    - [ ] Comparación de resultados teórico-prácticos (Bode)
+- [ ] Conclusiones
+    - [x] Individuales
+    - [ ] Técnicas: Las conclusiones no indican nada de los valores Wp1 y Wz1, Tau, etc..
+    - [ ] Interesantes y reflexivas: No si quiera se cuestionan los resultados
+
+Repositorio:
+- [x] Carpetas
+- [ ] Código Scilab/Matlab
+- [x] Código Spice
+- [x] Código de Latex
+- [x] Reporte en PDF
+- [x] Entregado en tiempo
+
+Grade = 68
